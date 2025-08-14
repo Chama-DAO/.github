@@ -1,3 +1,5 @@
+> **Due to unforseen and unavoidable circumstances we've had to sunset this project early on before getting to market. It's our hope that those with the resources, time and skill aiming t build such a monumental project will use and attribute this repository**
+
 # Hey, this is us
 
 ![the_chama_dao](../assets/home_banner.jpg)
